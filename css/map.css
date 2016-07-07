@@ -1,0 +1,19 @@
+﻿.map-area {
+
+}
+.map-area .map-image {
+    z-index: -9999;
+}
+
+.segment {
+    min-height: 20px;
+    min-width: 20px;
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.segment-info {
+    position:relative;
+}
+.segment-item {
+
+}

@@ -1,0 +1,11 @@
+{
+	"name": "ASP.NET",
+	"private": true,
+  "dependencies": {
+    "requirejs": "*",
+    "ng-material": "*",
+    "materialize": "*",
+    "jqueri-ui": "*"
+
+  }
+}
